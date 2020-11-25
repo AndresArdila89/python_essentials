@@ -5,4 +5,11 @@
     Date: nov-24-2020 21:28h
 """
 
-fav_movies = ["The Holy Grail", "The Life of Brian"]
+fav_movies = [
+    "The Holy Grail",1975, "Terry jones & Terry Gilliam",91 ,
+        ['Graham Chapman',
+            ['Michel Palin', 'John Cleese', 'Terry Gilliam','Eric Idle','Terry Jones']]]
+
+
+for each_item in fav_movies:
+    print(each_item)
