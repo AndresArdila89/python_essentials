@@ -45,3 +45,4 @@ print(cast)
 #Finally lets try the inset() method it takes 2 parameters insert(index_position, "string")
 cast.insert(0,"Chapman")
 print(cast)
+
